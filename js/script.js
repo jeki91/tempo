@@ -105,7 +105,6 @@ btnPrew.addEventListener('click', function (e) {
 			if (prew < 0) {
 				prew = blocks.length - 1;
 			}
-			console.log(prew + '-' + elemIndex + '-' + next);
 		}
 
 	});
